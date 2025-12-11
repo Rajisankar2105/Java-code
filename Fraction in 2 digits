@@ -1,0 +1,6 @@
+class Main{
+public static voi main(string[]args){
+double num=123.45; 
+system,out.println(num);
+}
+}
