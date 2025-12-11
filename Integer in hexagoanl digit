@@ -1,0 +1,6 @@
+class Main{
+public static void main(string[]args){
+int num=123;
+system,out.println(Integer tohexString(num));
+}
+}
