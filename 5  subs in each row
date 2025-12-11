@@ -1,0 +1,6 @@
+public class Main {
+    public static void main(String[] args) {
+        int m1 = 90, m2 = 80, m3 = 70, m4 = 60, m5 = 50;
+        System.out.println(m1 + "\n" + m2 + "\n" + m3 + "\n" + m4 + "\n" + m5);
+    }
+} 
