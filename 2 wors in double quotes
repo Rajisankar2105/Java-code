@@ -1,0 +1,7 @@
+class Main{
+public static void main(String [] args){
+String word1="hi";
+String word 2="guys";
+System.out.println("\""+word1+" "+word2+"\"");
+}
+}
