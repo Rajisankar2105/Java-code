@@ -1,0 +1,7 @@
+
+class Main{
+public static void main(String [] args){
+string dob=21/05/2005;
+System.out.println(dob);
+}
+}
