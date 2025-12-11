@@ -1,0 +1,7 @@
+class Main{
+public static void main(string[]args){
+String hex=173;
+int num=Integer.parseInt(octal,16);
+system,out.println(num);
+}
+}
